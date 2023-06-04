@@ -1,5 +1,5 @@
 # 💫 Hi World:
-Am Abbah Divine Attamah,a cloud software engineer adept at optimizing performance and leveraging DevOps practices. Passionate about continuous learning and driving business growth through innovative cloud technologies.
+Am Abbah Divine Attamah,a cloud software engineer adept at optimizing performance and leveraging DevOps practices. Passionate about continuous learning and driving business growth through innovative cloud technologies.<br>
 🔭 I’m currently working on a fingerprint information security project using AES and LSB algorithms, ALX-Software Engineering Task (C and Python)<br>🌱 I’m currently learning Terraform, Ansible and Fast API's<br>👯 I’m looking to collaborate with other software engineers on Python<br>🤔 I’m looking for help with ... Cloud native languages (.NET)<br>💬 Ask me about ... Cloud/Software engineering<br>📫 How to reach me: abbahdivine2020@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Always in the cloud😅<br>
 
 
